@@ -10,7 +10,7 @@ function topo() {
 }
 //Validação de Login
 
-function Login() {
+function login() {
     var logado = 0;
     var usuario = document.getElementById("usuario").value;
     var senha = document.getElementById("senha").value;
